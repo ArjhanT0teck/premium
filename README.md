@@ -43,4 +43,4 @@ no
 
 <p align="center">
 Credits to ArjhanT0teck, and justDarian for originally making this.<br><br>
-Premium is under the idk. Learn more <a href="https://github.com/Orphanlol/premium/blob/main/LICENSE">here</a>.</p>
+Premium is under the Eclipse Public License 2.0. Learn more <a href="https://github.com/Orphanlol/premium/blob/main/LICENSE">here</a>.</p>
