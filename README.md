@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<img width="212" height="212" src="https://example./img.png">
+<img width="212" height="212" src="https://github.com/Orphanlol/premium/blob/main/img/PremiumLogo.png?raw=true">
 </p>
 
 <h1 align="center">
